@@ -3,7 +3,7 @@
 2. email: zhang_sihui@qq.com
 
 #### Educational experience
-1. Hubei University                        	2016.9--2020.7
+1. Hubei University                        	   --2016.9--2020.7
 
 #### Direction of development
 ##### Now
