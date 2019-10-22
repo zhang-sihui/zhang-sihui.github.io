@@ -1,12 +1,12 @@
-#### Personal information
+### Personal information
 1. name:  zhangsihui
 2. email: zhang_sihui@qq.com
 
-#### Educational experience
+### Educational experience
 1. Hubei University                        	   --2016.9--2020.7
 
-#### Direction of development
-##### Now
+### Direction of development
+###### Now
 1. Programming
 	- Python, Django, Flask, Mysql, Linux 
 	- More  
@@ -25,7 +25,7 @@
 5. Other
 	- More
 
-##### Futrue
+###### Futrue
 1. Programming
 	- More
 2. Musical Instruments
@@ -34,5 +34,5 @@
 	- More
 
 
-#### Personal Website
+### Personal Website
 [http://zhangsihui.pythonanywhere.com/polls/](http://zhangsihui.pythonanywhere.com/polls/ "personal website")
