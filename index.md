@@ -35,4 +35,4 @@
 
 
 ### Personal Website
-[http://zhangsihui.pythonanywhere.com/polls/](http://zhangsihui.pythonanywhere.com/polls/ "personal website")
+[http://zhangsihui.pythonanywhere.com/](http://zhangsihui.pythonanywhere.com/ "personal website")
