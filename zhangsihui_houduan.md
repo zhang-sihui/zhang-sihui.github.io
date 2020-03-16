@@ -12,7 +12,7 @@ Github: https://github.com/zhang-sihui
 5.其他工具：Linux操作系统的简单使用。  
 - - -
 ### 教育经历
-##### 湖北大学 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2016年9月–2020年7月
+##### 湖北大学 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2016年9月–2020年7月
 计算机科学与技术-本科-计算机与信息工程学院  
 1．主修课程：Python程序设计、数据结构、计算机网络、操作系统、数据库系统原理等。  
 2．英语四级CET-4。  
