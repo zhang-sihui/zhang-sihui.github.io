@@ -27,10 +27,6 @@ Github: https://github.com/zhang-sihui
 5.访问留言功能：留言以交流。  
 6.个人观看记录：一个简单的个人观看清单。  
 - - -
-##### 课程项目   
-1．使用 Python Web 框架 Django，独立完成一个简单的博客系统，实现连接数据库，用户注册、登 录等功能，编辑、修改、删除博客等功能。  
-2．数据库实用技术课程设计中，MySQL 数据库的创建，表的构造，数据的简单查询与索引查询。
-- - -
 ### 个人网站  
 网站地址：https://zhangsihui.pythonanywhere.com/  
 
