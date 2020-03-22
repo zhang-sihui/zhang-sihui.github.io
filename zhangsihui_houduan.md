@@ -5,11 +5,11 @@
 Github: https://github.com/zhang-sihui  
 - - -
 ### 主要技能
-1.后端基础：掌握Python基础，熟练使用集成开发工具PyCharm的基本功能，了解Python Web框架Django。  
+1.后端基础：掌握Python基础，了解Python Web框架Django。  
 2.前端基础：了解HTML、CSS和JavaScript基础。  
 3.版本管理：了解git基本操作。  
-4.数据库：了解MySQL、Redis基础。  
-5.其他工具：Linux操作系统的简单使用。  
+4.数据库：了解MySQL基础。  
+5.其他工具：Linux操作系统的简单使用，熟练使用PyCharm、vs code的基本功能。  
 - - -
 ### 教育经历
 ##### 湖北大学 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2016年9月–2020年7月
