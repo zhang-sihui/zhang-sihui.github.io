@@ -1,6 +1,6 @@
 ### Personal information
 1. name:  zhangsihui
-2. email: zhang_sihui@qq.com
+2. email: zhang_sihui@foxmail.com
 
 ### Educational experience
 1. Hubei University                        	   --2016.9--2020.7
