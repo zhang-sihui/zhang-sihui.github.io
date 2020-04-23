@@ -1,7 +1,7 @@
 # 张思辉  
 男 | 求职意向：后端/软件开发工程师  
 湖北大学  |  计算机科学与技术  |  本科  
-电话/微信: 187-1264-0793  |  邮箱: zhang_sihui@qq.com  
+电话/微信: 187-1264-0793  |  邮箱: zhang_sihui@foxmail.com  
 Github: https://github.com/zhang-sihui  
 - - -
 ### 主要技能
