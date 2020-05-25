@@ -35,4 +35,5 @@
 
 
 ### Personal Website
-[http://zhangsihui.pythonanywhere.com/](http://zhangsihui.pythonanywhere.com/ "personal website")
+[http://zhangsihui.pythonanywhere.com/](http://zhangsihui.pythonanywhere.com/ "personal website")  
+https://zhang-sihui.github.io/zhangsihui_houduan
